@@ -14,7 +14,7 @@
    inkscape:version="0.48.5 r10040"
    width="675"
    height="675"
-   sodipodi:docname="2014-12-18-195951_1918x1042_scrot.svg"
+   sodipodi:docname="map.svg"
    inkscape:export-filename="/home/se/projects/sage-ski/2014/src/figures/map.png"
    inkscape:export-xdpi="369.51999"
    inkscape:export-ydpi="369.51999">
@@ -107,17 +107,17 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1438"
-     inkscape:window-height="879"
+     inkscape:window-width="958"
+     inkscape:window-height="1042"
      id="namedview3041"
      showgrid="true"
-     inkscape:zoom="0.97850382"
-     inkscape:cx="291.37436"
-     inkscape:cy="318.94286"
-     inkscape:window-x="0"
-     inkscape:window-y="19"
+     inkscape:zoom="2.7676267"
+     inkscape:cx="576.62432"
+     inkscape:cy="385.26876"
+     inkscape:window-x="2400"
+     inkscape:window-y="37"
      inkscape:window-maximized="0"
-     inkscape:current-layer="g8661-5"
+     inkscape:current-layer="layer6"
      units="in"
      inkscape:snap-bbox="true"
      showguides="true"
@@ -209,7 +209,7 @@
        id="text3093"
        sodipodi:linespacing="100%"><tspan
          sodipodi:role="line"
-         id="tspan3095"></tspan></text>
+         id="tspan3095" /></text>
     <text
        xml:space="preserve"
        style="font-size:10px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
@@ -218,7 +218,7 @@
        id="text3144"
        sodipodi:linespacing="100%"><tspan
          sodipodi:role="line"
-         id="tspan3146"></tspan></text>
+         id="tspan3146" /></text>
     <text
        xml:space="preserve"
        style="font-size:10px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
@@ -227,7 +227,7 @@
        id="text3169"
        sodipodi:linespacing="100%"><tspan
          sodipodi:role="line"
-         id="tspan3171"></tspan></text>
+         id="tspan3171" /></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -615,7 +615,7 @@
          y="942.69513"
          style="font-size:16px;text-align:center;text-anchor:middle;-inkscape-font-specification:Nimbus Sans;font-family:Nimbus Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">Toll House Double</tspan></text>
     <rect
-       style="fill:#fc9272;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
+       style="fill:#238b45;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
        id="rect3989-0-9-3"
        width="150"
        height="19.999992"
@@ -635,7 +635,7 @@
          y="608.92328"
          style="font-size:16px;text-align:center;text-anchor:middle;-inkscape-font-specification:Nimbus Sans;font-family:Nimbus Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">Lower Spruce Peak</tspan></text>
     <rect
-       style="fill:#fc9272;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
+       style="fill:#238b45;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
        id="rect3989-0-9-3-5"
        width="150"
        height="19.999992"
@@ -661,30 +661,35 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="csc" />
     <rect
-       style="fill:#deebf7;fill-opacity:1;stroke:#000000;stroke-width:0.99999994000000003;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
+       style="fill:#deebf7;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
        id="rect3989-2-5"
-       width="150"
-       height="35.843807"
+       width="151.90848"
+       height="55.889648"
        x="463.09152"
        y="673.61035"
-       ry="12.467411" />
+       ry="13.559136" />
     <text
        xml:space="preserve"
        style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Nimbus Sans;-inkscape-font-specification:Nimbus Sans"
        x="538.2995"
-       y="688.86633"
+       y="690.86633"
        id="text3097-8-2-9"
        sodipodi:linespacing="100%"><tspan
          id="tspan4070-7"
          sodipodi:role="line"
          x="538.2995"
-         y="688.86633"
-         style="font-size:16px;text-align:center;text-anchor:middle;-inkscape-font-specification:Nimbus Sans;font-family:Nimbus Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">Lessons, Rentals,</tspan><tspan
+         y="690.86633"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Nimbus Sans;-inkscape-font-specification:Nimbus Sans">Spruce Peak Lodge:</tspan><tspan
+         sodipodi:role="line"
+         x="538.2995"
+         y="706.86633"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Nimbus Sans;-inkscape-font-specification:Nimbus Sans"
+         id="tspan3514">Lessons, Rentals,</tspan><tspan
          id="tspan4286"
          sodipodi:role="line"
          x="538.2995"
-         y="704.86633"
-         style="font-size:16px;text-align:center;text-anchor:middle;-inkscape-font-specification:Nimbus Sans;font-family:Nimbus Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">and Lunch</tspan></text>
+         y="722.86633"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Nimbus Sans;-inkscape-font-specification:Nimbus Sans">and Lunch</tspan></text>
     <g
        id="g8209"
        transform="translate(19.511963,130.28992)">
@@ -774,7 +779,7 @@
        sodipodi:linespacing="100%"
        transform="translate(0,315)"><tspan
          sodipodi:role="line"
-         id="tspan7020"></tspan></text>
+         id="tspan7020" /></text>
     <rect
        ry="17.994375"
        y="327.49869"
